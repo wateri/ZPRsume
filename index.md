@@ -72,8 +72,3 @@
   术发展规划的视野。 一直以此为信条努力着。 当然，技术的快速上手能力以及
   技术的难点的解决能力也是关键的。
   
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
