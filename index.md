@@ -56,7 +56,7 @@
  
  
 ###技术参考
-  * 个人博客： http://www.cnblogs.com/watergilr/
+  * 个人博客： http://www.cnblogs.com/watergirl/
   * Github库： https://github.com/wateri/zprsume
  
  
