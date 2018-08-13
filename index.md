@@ -58,8 +58,6 @@
   * Github库： https://github.com/wateri/zprsume
  
  
-###近期目标
-> 专注原声js， 做自己的开源项目框架（ UI.js）编写，详细见博客
  
  
 ###个人评价
