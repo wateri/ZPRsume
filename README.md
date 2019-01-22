@@ -53,7 +53,7 @@
  
  
 ###技术参考
-  * 个人博客： http://www.cnblogs.com/watergilr/
+  * 个人博客： https://www.cnblogs.com/girliswater/
   * Github库： https://github.com/wateri/zprsume
  
  
